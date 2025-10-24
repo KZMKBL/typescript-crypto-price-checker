@@ -25,7 +25,7 @@ To run this project locally, you must have Node.js and npm installed.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/KZMKBL/typescript-crypto-price-checker.git](https://github.com/YOUR_GITHUB_USERNAME/typescript-crypto-price-checker.git)
+git clone [https://github.com/KZMKBL/typescript-crypto-price-checker.git](https://github.com/KZMKBL/typescript-crypto-price-checker.git)
 cd typescript-crypto-price-checker
 
 # Install dependencies (TypeScript, ts-node, axios)
